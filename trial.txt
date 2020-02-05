@@ -1,3 +1,8 @@
+<<<<<<< HEAD
 
 This is line first
 inserting 
+=======
+This is line 1
+editing.
+>>>>>>> b2
