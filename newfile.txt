@@ -1,1 +1,5 @@
+<<<<<<< HEAD
 this is also new file
+=======
+this is new file
+>>>>>>> b2
