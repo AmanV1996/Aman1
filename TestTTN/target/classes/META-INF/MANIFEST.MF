@@ -1,0 +1,25 @@
+Manifest-Version: 1.0
+Bnd-LastModified: 1583591472310
+Build-Jdk: 1.8.0_242
+Built-By: aman
+Bundle-ManifestVersion: 2
+Bundle-Name: TestTTN
+Bundle-SymbolicName: com.TestTTN
+Bundle-Version: 1.0.0.SNAPSHOT
+Created-By: Apache Maven Bundle Plugin
+Export-Package: com.ttn.bootcamp.Classes;version="1.0.0",com.ttn.bootcam
+ p.Assignment;uses:="com.ttn.bootcamp.Classes";version="1.0.0"
+Import-Package: com.ttn.bootcamp.Assignment,com.ttn.bootcamp.Classes
+Provide-Capability: osgi.service;objectClass:List<String>="com.ttn.bootc
+ amp.Assignment.ConfigurationService",osgi.service;objectClass:List<Stri
+ ng>="com.ttn.bootcamp.Assignment.StudentServices"
+Require-Capability: osgi.service;filter:="(objectClass=com.ttn.bootcamp.
+ Assignment.ConfigurationService)";effective:=active,osgi.service;filter
+ :="(objectClass=com.ttn.bootcamp.Assignment.StudentServices)";effective
+ :=active,osgi.extender;filter:="(&(osgi.extender=osgi.component)(versio
+ n>=1.4.0)(!(version>=2.0.0)))",osgi.ee;filter:="(&(osgi.ee=JavaSE)(vers
+ ion=1.8))"
+Service-Component: OSGI-INF/com.ttn.bootcamp.Assignment.ClassConfigurati
+ onService.xml,OSGI-INF/com.ttn.bootcamp.Assignment.StudentClassService.
+ xml,OSGI-INF/com.ttn.bootcamp.Classes.MainStudent.xml
+Tool: Bnd-4.1.0.201810181252

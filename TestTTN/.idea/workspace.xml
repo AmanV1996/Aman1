@@ -1,0 +1,82 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="ChangeListManager">
+    <list default="true" id="fdfb1c4e-abf7-4d97-b895-40ec5e46d40a" name="Default Changelist" comment="" />
+    <option name="SHOW_DIALOG" value="false" />
+    <option name="HIGHLIGHT_CONFLICTS" value="true" />
+    <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
+    <option name="LAST_RESOLUTION" value="IGNORE" />
+  </component>
+  <component name="CodeInsightWorkspaceSettings">
+    <option name="optimizeImportsOnTheFly" value="true" />
+  </component>
+  <component name="FileTemplateManagerImpl">
+    <option name="RECENT_TEMPLATES">
+      <list>
+        <option value="AnnotationType" />
+        <option value="Class" />
+        <option value="Interface" />
+      </list>
+    </option>
+  </component>
+  <component name="MavenImportPreferences">
+    <option name="importingSettings">
+      <MavenImportingSettings>
+        <option name="importAutomatically" value="true" />
+      </MavenImportingSettings>
+    </option>
+  </component>
+  <component name="ProjectId" id="1YbY2j6DrVfyRLVTgGacvEyBI1b" />
+  <component name="ProjectViewState">
+    <option name="hideEmptyMiddlePackages" value="true" />
+    <option name="showExcludedFiles" value="true" />
+    <option name="showLibraryContents" value="true" />
+  </component>
+  <component name="PropertiesComponent">
+    <property name="RunOnceActivity.ShowReadmeOnStart" value="true" />
+    <property name="project.structure.last.edited" value="Modules" />
+    <property name="project.structure.proportion" value="0.15" />
+    <property name="project.structure.side.proportion" value="0.2" />
+  </component>
+  <component name="RecentsManager">
+    <key name="MoveClassesOrPackagesDialog.RECENTS_KEY">
+      <recent name="" />
+      <recent name="java" />
+    </key>
+  </component>
+  <component name="SvnConfiguration">
+    <configuration />
+  </component>
+  <component name="TaskManager">
+    <task active="true" id="Default" summary="Default task">
+      <changelist id="fdfb1c4e-abf7-4d97-b895-40ec5e46d40a" name="Default Changelist" comment="" />
+      <created>1583212555319</created>
+      <option name="number" value="Default" />
+      <option name="presentableId" value="Default" />
+      <updated>1583212555319</updated>
+    </task>
+    <servers />
+  </component>
+  <component name="WindowStateProjectService">
+    <state x="311" y="58" width="800" height="677" key="#Project_Structure" timestamp="1583425157530">
+      <screen x="67" y="27" width="1299" height="741" />
+    </state>
+    <state x="311" y="58" width="800" height="677" key="#Project_Structure/67.27.1299.741@67.27.1299.741" timestamp="1583425157530" />
+    <state x="209" y="324" width="1005" height="145" key="#com.intellij.refactoring.move.MoveHandler.SelectRefactoringDialog" timestamp="1583591715388">
+      <screen x="67" y="27" width="1299" height="741" />
+    </state>
+    <state x="209" y="324" width="1005" height="145" key="#com.intellij.refactoring.move.MoveHandler.SelectRefactoringDialog/67.27.1299.741@67.27.1299.741" timestamp="1583591715388" />
+    <state x="469" y="278" key="#com.intellij.refactoring.move.moveClassesOrPackages.MoveClassesOrPackagesDialog.packages" timestamp="1583591720221">
+      <screen x="67" y="27" width="1299" height="741" />
+    </state>
+    <state x="469" y="278" key="#com.intellij.refactoring.move.moveClassesOrPackages.MoveClassesOrPackagesDialog.packages/67.27.1299.741@67.27.1299.741" timestamp="1583591720221" />
+    <state x="249" y="54" width="924" height="684" key="Maven.ArtifactSearchDialog" timestamp="1583590898817">
+      <screen x="67" y="27" width="1299" height="741" />
+    </state>
+    <state x="249" y="54" width="924" height="684" key="Maven.ArtifactSearchDialog/67.27.1299.741@67.27.1299.741" timestamp="1583590898817" />
+    <state x="67" y="55" width="1289" height="683" key="new project wizard" timestamp="1583303646725">
+      <screen x="67" y="27" width="1299" height="741" />
+    </state>
+    <state x="67" y="55" width="1289" height="683" key="new project wizard/67.27.1299.741@67.27.1299.741" timestamp="1583303646725" />
+  </component>
+</project>
