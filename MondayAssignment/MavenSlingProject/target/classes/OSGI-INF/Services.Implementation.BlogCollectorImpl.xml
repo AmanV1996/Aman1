@@ -1,0 +1,9 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<scr:component xmlns:scr="http://www.osgi.org/xmlns/scr/v1.3.0" name="Services.Implementation.BlogCollectorImpl" activate="activate">
+  <implementation class="Services.Implementation.BlogCollectorImpl"/>
+  <service>
+    <provide interface="Services.BlogCollector"/>
+  </service>
+  <reference name="marketBlogService" interface="Services.BlogService" target="(version=MB_1.0)" field="marketBlogService"/>
+  <reference name="techBlogService" interface="Services.BlogService" target="(version=TB_1.0)" field="techBlogService"/>
+</scr:component>

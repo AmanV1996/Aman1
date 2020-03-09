@@ -1,0 +1,10 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<metatype:MetaData xmlns:metatype="http://www.osgi.org/xmlns/metatype/v1.2.0" localization="OSGI-INF/l10n/Services.Configuration.TechBlogConfig">
+  <OCD id="Services.Configuration.TechBlogConfig" name="TechBlogConfig" description="Configuration for Tech Blog">
+    <AD id="BLOG.CATEGORY" type="String" name="Blog Category" description="Blog Category" default="Technology"/>
+    <AD id="RANK" type="Integer" name="Blog Rank" description="Blog Rank" default="1"/>
+  </OCD>
+  <Designate pid="Services.Implementation.TechBlog">
+    <Object ocdref="Services.Configuration.TechBlogConfig"/>
+  </Designate>
+</metatype:MetaData>

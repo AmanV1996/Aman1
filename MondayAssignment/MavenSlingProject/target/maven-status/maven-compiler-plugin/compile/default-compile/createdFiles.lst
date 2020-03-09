@@ -1,0 +1,8 @@
+Components/MainComponent.class
+Services/Configuration/MarketBlogConfig.class
+Services/Configuration/TechBlogConfig.class
+Services/Implementation/MarketBlog.class
+Services/Implementation/BlogCollectorImpl.class
+Services/BlogCollector.class
+Services/BlogService.class
+Services/Implementation/TechBlog.class
